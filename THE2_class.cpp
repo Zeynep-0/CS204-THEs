@@ -1,4 +1,4 @@
-/*
+
 //Author: Zeynep Taskin 
 //Date: 31.07.2024 
 //Purpose: This program is a maze game where you try to find the exit and collect items.
@@ -278,4 +278,4 @@ int main() {
 	Maze maze;//create the maze
 	maze.playGame();//play the game
 	return 0;
-}*/
+}
