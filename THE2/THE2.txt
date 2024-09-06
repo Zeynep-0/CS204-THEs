@@ -1,0 +1,18 @@
+In this Take-Home Exam (THE), you will be practicing the concept of 2D Linked Lists. You
+will implement a maze game using a 2D linked list structure. The tasks include reading the content of a
+file that represents the maze, constructing a 2D Linked List and then populating the content
+of the file to the 2D linked List. In the next sections, we will mention the input and output
+format, the rules for the maze game and the users' interactions with the game.
+
+Sample Run:
+Enter the maze file name:
+m1.txt
+Maze loaded. Start exploring!
+Enter input (R/L/U/D/P/C/Q):
+P E...
+....
+#..X
+Current score: 0
+Enter input (R/L/U/D/P/C/Q):
+Q Game ended by the player.
+Final score: 0
