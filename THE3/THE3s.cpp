@@ -1,5 +1,5 @@
 
-//Author: Zeynep Taskin 33851
+//Author: Zeynep Taskin
 //Date: 15.08.2024 
 //Purpose: This program simulates the distribution of packets across a network of routers.
 //DynQueue.h
