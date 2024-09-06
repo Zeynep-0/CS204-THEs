@@ -1,5 +1,5 @@
 
-//Author: Zeynep Taskin 33851
+//Author: Zeynep Taskin
 //Date: 25.08.2024 
 //Purpose: This program processes a file through the use of multithreading.
 
