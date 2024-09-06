@@ -1,4 +1,4 @@
-//Zeynep Taskin 33851
+//Zeynep Taskin
 #include "Board.h"
 #include <iostream>
 using namespace std;
