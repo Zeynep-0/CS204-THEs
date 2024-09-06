@@ -1,0 +1,3 @@
+In this homework, you are asked to implement a simple monopoly board game using the object
+sharing concept of C++. The main program, which includes the game implementation using
+classes, is given to you. You are expected to write two classes: Board class and Player class.
