@@ -1,0 +1,63 @@
+The aim of this Take-Home Exam (THE) is to have you work with multithreaded programming.
+You are asked to implement a basic variant of a machine learning algorithm in order to estimate
+the selling price of a house by analyzing a real data set.
+
+
+Sample Run:
+20640 districts have been loaded.
+How many threads?: 16
+What is the age of the house?: 18
+How many rooms does the house have?: 5
+How many bedrooms does the house have?: 1
+What is the latitude of the house?: 33.9
+What is the longitude of the house?: -117.93
+Thread with id 5 is processing its 1000th item.
+Thread with id 6 is processing its 1000th item.
+Thread with id 16 is processing its 1000th item.
+Thread with id 17 is processing its 1000th item.
+Thread with id 7 is processing its 1000th item.
+Thread with id 2 is processing its 1000th item.
+Thread with id 15 is processing its 1000th item.
+Thread with id 3 is processing its 1000th item.
+Thread with id 14 is processing its 1000th item.
+Thread with id 9 is processing its 1000th item.
+Thread with id 10 is processing its 1000th item.
+Thread with id 11 is processing its 1000th item.
+Thread with id 5 is processing its 2000th item.
+Thread with id 13 is processing its 1000th item.
+Thread with id 12 is processing its 1000th item.
+Thread with id 8 is processing its 1000th item.
+Thread with id 7 is exiting.
+Thread with id 10 is exiting.
+Thread with id 16 is exiting.
+Thread with id 13 is exiting.
+Thread with id 8 is exiting.
+Thread with id 17 is exiting.
+Thread with id 2 is exiting.
+Thread with id 5 is exiting.
+Thread with id 11 is exiting.
+Thread with id 9 is exiting.
+Thread with id 15 is exiting.
+Thread with id 14 is exiting.
+Thread with id 4 is exiting.
+Thread with id 6 is exiting.
+Thread with id 3 is exiting.
+Thread with id 12 is exiting.
+Closest three districts in terms of features have the following median
+prices:
+Closest District 1
+--------
+Id: 10143
+Median Price: 193500
+Calculated Dissimilarity Metric: 0.0643439
+Closest District 2
+--------
+Id: 10105
+Median Price: 153600
+Calculated Dissimilarity Metric: 0.0672495
+Closest District 3
+--------
+Id: 11698
+Median Price: 181800
+Calculated Dissimilarity Metric: 0.0728733
+Average median price of three closest districts: 176300
