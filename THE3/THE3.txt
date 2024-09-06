@@ -1,0 +1,15 @@
+The aim of this Take Home Exam (THE) is to have you work with the queue data structure, class
+design issues and operator overloading. You are asked to implement a simulation of a computer
+network, where packets of data roam around different routers and try to reach their destination.
+
+Sample Run:
+Please enter the name of the file for routers:
+routers0.txt
+Please enter the name of the file for packets:
+packets0.txt
+Packets are displayed in the order they arrive in the terminal router, along with their router visit history:
+PacketX: E, 1, 2, 5, T
+PacketY: E, 1, 2, 5, T
+PacketC: E, 4, 5, T
+PacketD: E, 4, 5, T
+PacketB: E, 1, 3, 4, 5, T
