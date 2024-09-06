@@ -1,4 +1,4 @@
-//Zeynep Taskin 33851
+//Zeynep Taskin
 #ifndef board_h
 #define board_h
 #include <iostream>
