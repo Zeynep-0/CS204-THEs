@@ -4,7 +4,6 @@ the selling price of a house by analyzing a real data set.
 
 
 Sample Run:
-
 20640 districts have been loaded.
 How many threads?: 16
 What is the age of the house?: 18
