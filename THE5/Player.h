@@ -1,4 +1,4 @@
-//Zeynep Taskin 33851
+//Zeynep Taskin
 #ifndef player_h
 #define player_h
 #include <iostream>
