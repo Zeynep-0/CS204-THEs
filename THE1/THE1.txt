@@ -1,0 +1,4 @@
+The aim of this take-home exam (THE) is to recall CS201 material and practice on matrices (i.e.,
+two dimensional vectors). You are asked to search for a list of words in a character matrix, just
+like you would do with Sunday morning puzzles. When searching for a word, you will calculate a
+score based on the existence/absence of that word in the matrix.
