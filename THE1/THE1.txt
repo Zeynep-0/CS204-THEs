@@ -2,3 +2,30 @@ The aim of this take-home exam (THE) is to recall CS201 material and practice on
 two dimensional vectors). You are asked to search for a list of words in a character matrix, just
 like you would do with Sunday morning puzzles. When searching for a word, you will calculate a
 score based on the existence/absence of that word in the matrix.
+
+Sample Run:
+
+Input:
+5
+HJRLDGKU
+AOYDOOOO
+TRYTRUOA
+OEGEZCDN
+MRYTABLE
+1
+ATOM
+
+Output:
+4
+
+Explanation of the output:
+5 represents the number of rows of the matrix, therefore it is
+followed by 5 lines of input. Then, 1 represents the number of
+words that will be searched for in the matrix, therefore it is
+followed by 1 line of input.
+The output (score) is 4, as follows:
+● The word ATOM is found vertically in the matrix as
+highlighted in the cell on the left. So, as per rule number
+1 for calculating the score, the score is increased by the
+number of letters in the word ATOM. Thus, the final score
+is 4 as shown in the output column.
