@@ -1,4 +1,4 @@
-/*
+
 //Author: Zeynep Taskin 33851
 //Date: 15.08.2024 
 //Purpose: This program simulates the distribution of packets across a network of routers.
@@ -380,4 +380,4 @@ int main() {
 	cout << routerVec[numOfRouters+1].routerQue;
 	
 	return 0;
-}*/
+}
