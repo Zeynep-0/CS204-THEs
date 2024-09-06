@@ -4,8 +4,8 @@
 #include<string>
 using namespace std;
 
-Author: Zeynep Taskin
-  Date: July 2024 
+//Author: Zeynep Taskin
+//Date: July 2024 
 
 int searchHori(string word, const vector<vector<string>>& matrix) {// search horizontally
 	int lenofword = word.length();
